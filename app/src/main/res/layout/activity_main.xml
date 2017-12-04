@@ -59,4 +59,5 @@
         android:paddingTop="16dp"
         android:textAllCaps="true"
         android:textAppearance="?android:textAppearanceMedium" />
+
 </LinearLayout>
